@@ -1,0 +1,14 @@
+{
+  "name": "jcordinstaller",
+  "version": "1.0.0",
+  "description": "The JCord Installer",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "jvrcruz",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
